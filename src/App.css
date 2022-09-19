@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+.affichage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-items: center;
+  margin: 18%;
+  margin-top: 10px;
+}
+.aff {
+  padding: 20px;
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 100;
+  color: rgb(0, 244, 252);
+}
+.alo {
+  background: none;
+}
+.title {
+  color: rgb(255, 0, 0);
+  padding: 20px;
+  font-size: 50px;
+  font-weight: 100;
+  font-style: italic;
+}
